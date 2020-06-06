@@ -1,0 +1,9 @@
+.screen {
+display: flex;
+justify-content: center;
+align-items: center;
+width: 60%;
+margin-top: 10%;
+margin-left: 25%;
+background-color: rgb(224, 224, 240);
+}
